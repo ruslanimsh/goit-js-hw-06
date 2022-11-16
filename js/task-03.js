@@ -22,7 +22,6 @@ const markup = images
   .join("");
 
 list.insertAdjacentHTML("beforeend", markup);
-// const img = document.createElement('img')
 
 const pictures = document.querySelectorAll(".picture");
 
